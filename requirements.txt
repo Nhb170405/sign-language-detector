@@ -1,0 +1,5 @@
+numpy
+matplotlib
+opencv-python
+tensorflow  # hoặc torch nếu dùng PyTorch
+scikit-learn
